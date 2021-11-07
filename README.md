@@ -1,15 +1,18 @@
-Web Developer.
-- Contact me: shahulhammeed01@gmail.com
+## Web Developer.
 
-<!--
-Here are some ideas to get you started:
+#### I like learning stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Languages:
+- Javascript.
+- Typescript.
+
+#### Frameworks:
+- Svelte JS.
+- React JS.
+
+#### Other Skills:
+- Cypress(Testing).
+
+<br /> <br />
+Contact: shahulhammeed01@gmail.com
