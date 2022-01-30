@@ -8,8 +8,8 @@
 - Typescript.
 
 #### Frameworks:
-- Svelte JS.
 - React JS.
+- Svelte JS.
 
 #### Other Skills:
 - Cypress(Testing).
