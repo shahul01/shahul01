@@ -1,6 +1,6 @@
 ## Web Developer
 
-#### I like learning & creating stuff.
+#### I like hard problems & good design
 <br />
 
 ![image](https://media.giphy.com/media/7NoNw4pMNTvgc/giphy-downsized.gif)
