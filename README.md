@@ -11,11 +11,11 @@
 - Javascript
 - Typescript
 
-#### Frameworks:
+#### Frameworks & Libraries:
 - React JS
 - Svelte JS
-
-#### Other Skills:
+- Node JS
+- tRPC
 - Cypress(Testing)
 
 <br /> <br />
