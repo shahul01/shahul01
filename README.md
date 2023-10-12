@@ -1,4 +1,4 @@
-## Web Developer.
+## Web Developer
 
 #### I like learning & creating stuff.
 
@@ -12,11 +12,11 @@
 - Typescript.
 
 #### Frameworks:
-- React JS.
-- Svelte JS.
+- React JS
+- Svelte JS
 
 #### Other Skills:
-- Cypress(Testing).
+- Cypress(Testing)
 
 <br /> <br />
 Contact: shahulhammeed01@gmail.com
