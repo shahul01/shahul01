@@ -1,11 +1,6 @@
 ## Web Developer
 
-#### I like hard problems & good design
-<br />
-
-![image](https://media.giphy.com/media/7NoNw4pMNTvgc/giphy-downsized.gif)
-
-<br /> <hr /> <br />
+I like hard problems & good design
 
 #### Languages:
 - Javascript
