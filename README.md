@@ -8,8 +8,8 @@
 
 
 #### Languages:
-- Javascript.
-- Typescript.
+- Javascript
+- Typescript
 
 #### Frameworks:
 - React JS
