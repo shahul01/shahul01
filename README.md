@@ -23,6 +23,8 @@ I like hard problems & good design
 
 <br /> <hr /> <br />
 
+[Resume](https://shahul01.vercel.app/)
+<br />
 Contact: shahulhammeed01@gmail.com
 
 <br />
