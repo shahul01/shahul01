@@ -1,4 +1,4 @@
-## Full Stack Web Developer
+## Full stack developer
 
 I like hard problems & good design
 
