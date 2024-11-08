@@ -7,9 +7,9 @@ I like hard problems & good design
 - Typescript
 
 #### Frameworks & Libraries:
-- React JS - w/ Next JS
 - Svelte JS - w/ SvelteKit
-- Node JS - w/ Express JS, Postgres, MongoDb, etc.
+- React JS - w/ Next JS
+- Node JS - w/ Express JS, Postgres, MongoDb, PrismaORM etc.
 - Cypress for testing
 
 <br /> <hr /> <br />
