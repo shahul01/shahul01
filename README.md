@@ -9,8 +9,9 @@ I like hard problems & good design
 #### Frameworks & Libraries:
 - Svelte JS - w/ SvelteKit
 - React JS - w/ Next JS
-- Node JS - w/ Express JS, Postgres, MongoDb, PrismaORM etc.
-- Cypress for testing
+- Node JS - w/ Express JS, Postgres, MongoDb, PrismaORM, etc.
+- Misc: Supabase, tRPC, TailwindCSS, etc.
+- Vitest, Cypress & Playwright for testing
 
 <br /> <hr /> <br />
 
