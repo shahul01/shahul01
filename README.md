@@ -15,7 +15,7 @@ I like hard problems & good design
 
 <br /> <hr /> <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shahul01&rank=-C,-?&margin-w=12)](https://github-profile-trophy.vercel.app/?username=shahul01&rank=-C,-?&margin-w=12)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=shahul01&rank=-C,-?&margin-w=12)](https://github-profile-trophy.vercel.app/?username=shahul01&rank=-C,-?&margin-w=12) -->
 
 <br />
 
