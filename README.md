@@ -19,7 +19,7 @@ I like hard problems & good design
 
 <br />
 
-[![topLang](https://github-readme-stats.vercel.app/api/top-langs/?username=shahul01&hide=Vim%20Script&layout=pie)](https://github-readme-stats.vercel.app/api/top-langs/?username=shahul01&hide=Vim%20Script&layout=pie)
+<!-- [![topLang](https://github-readme-stats.vercel.app/api/top-langs/?username=shahul01&hide=Vim%20Script&layout=pie)](https://github-readme-stats.vercel.app/api/top-langs/?username=shahul01&hide=Vim%20Script&layout=pie) -->
 
 <!-- [![stats](https://github-readme-stats.vercel.app/api?username=shahul01)]((https://github-readme-stats.vercel.app/api?username=shahul01)) -->
 
