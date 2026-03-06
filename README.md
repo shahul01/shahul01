@@ -13,11 +13,11 @@ I like hard problems & good design
 - Misc: Supabase, tRPC, TailwindCSS, etc.
 - Vitest, Cypress & Playwright for testing
 
-<br /> <hr /> <br />
+<!-- <br /> <hr /> <br /> -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=shahul01&rank=-C,-?&margin-w=12)](https://github-profile-trophy.vercel.app/?username=shahul01&rank=-C,-?&margin-w=12) -->
 
-<br />
+<!-- <br /> -->
 
 <!-- [![topLang](https://github-readme-stats.vercel.app/api/top-langs/?username=shahul01&hide=Vim%20Script&layout=pie)](https://github-readme-stats.vercel.app/api/top-langs/?username=shahul01&hide=Vim%20Script&layout=pie) -->
 
